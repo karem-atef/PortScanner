@@ -2,5 +2,5 @@
 
 A crapy port scanner 
 
-#Usage 
+# Usage 
 python3 portscanner.py <ip> or <hostname>
